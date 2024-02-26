@@ -52,3 +52,7 @@ Utilizando essas instruções, uma janela de terminal foi aberta, mostrando info
 
 **Conclusão**
 Esse exercício incentivou de forma prática o estudo sobre a criação e acesso a uma instância EC2 na AWS. Além disso, com seus resultados e esse relatório desenvolvido, a atividade permitiu a demonstração da capacidade da aluna em realizar, analisar e documentar as tarefas propostas. 
+
+Fontes:
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
+https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-cloud-computing
